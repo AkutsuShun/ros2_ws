@@ -1,0 +1,23 @@
+[0.431s] Invoking command in '/home/shumy/ros2_ws/src/mypkg': PYTHONPATH=/home/shumy/ros2_ws/build/mypkg/prefix_override:/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/shumy/ros2_ws/build/mypkg/build install --record /home/shumy/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[0.550s] running egg_info
+[0.551s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.551s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.551s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.551s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.551s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.572s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.572s] running build
+[0.572s] running build_py
+[0.573s] running install
+[0.573s] running install_lib
+[0.574s] running install_data
+[0.574s] copying launch/talk_listen.launch.py -> /home/shumy/ros2_ws/install/mypkg/share/mypkg
+[0.574s] running install_egg_info
+[0.575s] removing '/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.575s] Copying ../../build/mypkg/mypkg.egg-info to /home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.576s] running install_scripts
+[0.587s] Installing listener script to /home/shumy/ros2_ws/install/mypkg/lib/mypkg
+[0.587s] Installing talker script to /home/shumy/ros2_ws/install/mypkg/lib/mypkg
+[0.587s] writing list of installed files to '/home/shumy/ros2_ws/build/mypkg/install.log'
+[0.602s] Invoked command in '/home/shumy/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/shumy/ros2_ws/build/mypkg/prefix_override:/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/shumy/ros2_ws/build/mypkg/build install --record /home/shumy/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
