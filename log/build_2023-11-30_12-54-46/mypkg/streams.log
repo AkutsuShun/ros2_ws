@@ -1,0 +1,25 @@
+[1.837s] Invoking command in '/home/shumy/ros2_ws/src/mypkg': PYTHONPATH=/home/shumy/ros2_ws/build/mypkg/prefix_override:/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/shumy/ros2_ws/build/mypkg/build install --record /home/shumy/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[2.191s] running egg_info
+[2.192s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[2.192s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[2.193s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[2.194s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[2.195s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[2.265s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.272s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[2.273s] running build
+[2.273s] running build_py
+[2.273s] copying mypkg/talker.py -> /home/shumy/ros2_ws/build/mypkg/build/lib/mypkg
+[2.274s] running install
+[2.274s] running install_lib
+[2.275s] copying /home/shumy/ros2_ws/build/mypkg/build/lib/mypkg/talker.py -> /home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg
+[2.276s] byte-compiling /home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/talker.py to talker.cpython-38.pyc
+[2.277s] running install_data
+[2.277s] running install_egg_info
+[2.285s] removing '/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.285s] Copying ../../build/mypkg/mypkg.egg-info to /home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[2.285s] running install_scripts
+[2.311s] Installing listener script to /home/shumy/ros2_ws/install/mypkg/lib/mypkg
+[2.311s] Installing talker script to /home/shumy/ros2_ws/install/mypkg/lib/mypkg
+[2.311s] writing list of installed files to '/home/shumy/ros2_ws/build/mypkg/install.log'
+[2.341s] Invoked command in '/home/shumy/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/shumy/ros2_ws/build/mypkg/prefix_override:/home/shumy/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/shumy/ros2_ws/build/mypkg/build install --record /home/shumy/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
